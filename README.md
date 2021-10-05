@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @peiern
-- 🌱 I’m currently learning the basics of web development and I'm looking to further expand my knowledge and understanding of it
+- 🌱 I’ve recently graduated from Le Wagon Singapore's Web Development Course
+- :eye: I'm currently open to Frontend developer roles
 - 📫 How to reach me: <br>
     Email: peiern.28@gmail.com<br>
     Slack: peiern koh<br>
